@@ -1,1 +1,1 @@
-# java
+# Java Programming at Maynard High School
