@@ -10,7 +10,7 @@ public class Main {
     Scanner in = new Scanner(System.in);
     MHSCS.clearScreen();
 
-
+    System.out.println("Hello May 14 at 11:11am.");
 
     in.close();
     MHSCS.endProgram();
