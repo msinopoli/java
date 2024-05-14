@@ -4,11 +4,13 @@
 
 import java.util.*;
 
-public class Main {
+public class Casting {
   public static void main(String[] args)
   {
     Scanner in = new Scanner(System.in);
     MHSCS.clearScreen();
+
+    System.out.println("Casting May 14");
 
 
 

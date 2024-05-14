@@ -4,13 +4,15 @@
 
 import java.util.*;
 
-public class Main {
+public class Operations {
   public static void main(String[] args)
   {
     Scanner in = new Scanner(System.in);
     MHSCS.clearScreen();
 
-    System.out.println("Hello May 14 at 11:11am.");
+    System.out.println("Operations May 14");
+
+
 
     in.close();
     MHSCS.endProgram();
